@@ -1,22 +1,52 @@
 {
-	"movies": [
+	"classes": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Code": "Info 202",
+			"Name": "Information Organization & Retrieval",
+			"Professor": "David Bamman",
+			"Days": [
+				"Tuesday", "Thursday"
+			]
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Code": "Info 206A",
+			"Name": "Introduction to Programming & Computation",
+			"Professor": "Hany Farid",
+			"Days": [
+				"Monday", "Wednesday"
+			]
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Code": "Info 206B",
+			"Name": "Data Structures & Algorithms",
+			"Professor": "Hany Farid",
+			"Days": [
+				"Monday", "Wednesday"
+			]
+		},
+		{
+			"Code": "Info 271B",
+			"Name": "Quantitative Research Methods",
+			"Professor": "Coye Cheshire",
+			"Days": [
+				"Tuesday", "Thursday"
+			]
+		},
+		{
+			"Code": "CS 299",
+			"Name": "Designing Algorithmic Media",
+			"Professor": "Jonathan Stray",
+			"Days": [
+				"Friday"
+			]
+		},
+		{
+			"Code": "Info 290M",
+			"Name": "Lean/Agile Product Management",
+			"Professor": "Jez Humble",
+			"Days": [
+				"Monday"
+			]
 		}
 	]
 }
