@@ -1,6 +1,8 @@
 table {
-  width: 75%;
+  /* width: 75%; */
   font-size: large;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
 }
 
 td {
